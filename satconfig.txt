@@ -1,0 +1,41 @@
+# satconfig.txt instructions: A proper entry starts with the property and is 
+# followed by a colon.  Only the second field in each line is read so comments
+# can follow the property value or the '#' at the beginning of a line.
+
+# Reson machine network information
+ipaddress: 127.0.0.1 # ipaddress of the Reson machine.
+sonartype: 7125 # Reson sonar type
+ownip: 127.0.0.1
+# vessel: desk
+
+# Other stuff
+calfile200kHz: 201306270312_S250PORT_200kHz_cal.npy # updated 2013-07-15 at 1717
+calfile400kHz: 201405281949_396kHz_cal.npy # updated 2014-05-28 at 1717
+calfile100kHz: 201306270201_cal.npy # updated 2013-07-15 at 1548
+
+mode: calibration
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
